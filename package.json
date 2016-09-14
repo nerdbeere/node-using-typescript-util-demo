@@ -1,0 +1,14 @@
+{
+  "name": "node-using-typescript-util-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript-rollup-util": "git+ssh://git@github.com/nerdbeere/typescript-rollup-demo-util.git#1.0.1"
+  }
+}
